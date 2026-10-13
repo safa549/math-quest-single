@@ -1,1 +1,1 @@
-# Relate-Multiplication-and-Division-
+# math-quest-single
